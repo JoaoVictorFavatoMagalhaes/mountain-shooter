@@ -1,3 +1,4 @@
+alt text Mountain Shooter alt text
 
 GAME MENU
 
