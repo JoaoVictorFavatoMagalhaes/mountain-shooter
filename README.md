@@ -1,4 +1,5 @@
-alt text Mountain Shooter alt text
+<img width="61" height="34" alt="image" src="https://github.com/user-attachments/assets/d47510ac-79f4-46d6-97ad-92c01b345042" /> Mountain Shoter <img width="61" height="34" alt="image" src="https://github.com/user-attachments/assets/6d0fd134-e033-45f9-9f99-056b73433c8b" />
+
 
 GAME MENU
 
